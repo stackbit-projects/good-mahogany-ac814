@@ -1,0 +1,37 @@
+title = "Notre-Dame de Paris"
+baseURL = ""
+languageCode = "en-us"
+theme = "ananke gohugo theme"
+themesDir = "themes"
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+publishDir = "public"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+facebook = ""
+twitter = "https://twitter.com/GoHugoIO"
+instagram = ""
+youtube = ""
+github = ""
+gitlab = ""
+linkedin = ""
+mastodon = ""
+slack = ""
+stackoverflow = ""
+rss = ""
+background_color_class = "bg-black"
+featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+recent_posts_number = 2
